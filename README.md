@@ -1,6 +1,6 @@
-# Conduct a security audit
+# Manage Security Risks
 
-# Project Objective
+# Conduct a security audit
 The scope of this audit is defined the entire security program at Botium Toys.
 
 Assess assets and complete the controls and compliance checklist to
@@ -13,9 +13,11 @@ to improve Botium Toys’ security posture
 - Controls and compliance checklist
 
 # Skills Gained
-- confidentiality, integrity, and availability (CIA) triad
-- security frameworks and controls
-- Open Web Application Security Project (OWASP)
+- Information Security (INFOSEC)
+- NIST Risk Management Framework (RMF)
+- Security Audits
+- NIST Cybersecurity Framework (CSF)
+- Incident Response Playbooks
 
 
 Security audits play a importmant role in helping organizations proactively manage and enhance their cybersecurity defenses.
